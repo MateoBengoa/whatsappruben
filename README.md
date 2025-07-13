@@ -278,6 +278,32 @@ npx eas submit --platform ios
 
 Este proyecto está bajo la licencia MIT. Ver `LICENSE` para más detalles.
 
+## 🚀 Guías de Instalación y Configuración
+
+### 📖 **¡EMPEZAR AQUÍ!**
+
+**[📋 GUÍA COMPLETA](docs/GUIA_COMPLETA.md)** - Proceso paso a paso completo 
+*Tiempo estimado: 2-3 horas | Costo: $5-20/mes*
+
+### 🗄️ Configuración de Servicios:
+- [🗄️ Supabase (Base de datos)](docs/CONFIGURACION_SUPABASE.md)
+- [🤖 OpenAI (GPT-4)](docs/CONFIGURACION_OPENAI.md)
+- [📱 Twilio (WhatsApp)](docs/CONFIGURACION_TWILIO.md)
+
+### 🌐 Despliegue en Producción:
+- [🔧 Backend en Render](docs/DESPLIEGUE_RENDER.md)
+- [⚡ Frontend Web en Vercel](docs/DESPLIEGUE_VERCEL.md)
+- [📱 App Móvil con Expo](docs/CONFIGURACION_MOBILE.md)
+
+### 🎯 Resultados Finales:
+✅ Bot WhatsApp con GPT-4 funcionando  
+✅ Dashboard web para gestión  
+✅ App móvil para control remoto  
+✅ Base de datos en la nube  
+✅ Todo desplegado en producción  
+
+---
+
 ## 🆘 Soporte
 
 Para soporte y consultas:
